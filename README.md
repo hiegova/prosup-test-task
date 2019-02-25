@@ -1,7 +1,7 @@
 # test-task
 ### Тестове завдання на позицію Junior JavaScript developer
 
-
+![alt text](https://github.com/hiegova/prosup-test-task/blob/master/test-task-text.jpg?raw=true)
 
 ## Деталі реалізації
 
